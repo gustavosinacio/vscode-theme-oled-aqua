@@ -1,0 +1,21 @@
+{
+  "name": "oled-aqua",
+  "displayName": "Oled Aqua",
+  "description": "Oled theme with aqua accent",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Oled Aqua",
+        "uiTheme": "hc-black",
+        "path": "./themes/oled-aqua-v2-color-theme.json"
+      }
+    ]
+  }
+}
