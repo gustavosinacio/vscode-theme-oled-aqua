@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Oled Aqua",
+        "label": "Oled Aqua High Contrast",
         "uiTheme": "hc-black",
-        "path": "./themes/oled-aqua-v2-color-theme.json"
+        "path": "./themes/oled-aqua-high-contrast.json"
       }
     ]
   }
