@@ -359,7 +359,6 @@
       "scope": [
         "keyword.operator.expression.instanceof",
         "keyword.operator.new",
-        "keyword.operator.ternary",
         "keyword.operator.optional",
         "keyword.operator.expression.keyof"
       ],
@@ -608,8 +607,6 @@
       ],
       "settings": {
         "foreground": "#5fff7c",
-        "fontStyle": "bold"
-        
       }
     },
     {
@@ -1757,6 +1754,30 @@
       }
     },
     {
+      "scope": [
+        "keyword.operator.ternary"
+      ],
+      "settings": {
+        "foreground": "#fff"
+      }
+    },
+    {
+      "scope": [
+        "meta.embedded.expression"
+      ],
+      "settings": {
+        "foreground": "#0fc"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.definition.tag"
+      ],
+      "settings": {
+        "foreground": "#ccc"
+      }
+    },
+    {
       "name": "elements to dim",
       "scope": [
         "punctuation.definition.tag.xi"
@@ -2065,7 +2086,7 @@
     "gitDecoration.stageDeletedResourceForeground": "#c74e39",
     "gitDecoration.stageModifiedResourceForeground": "#e2c08d",
     "gitDecoration.submoduleResourceForeground": "#8db9e2",
-    "gitDecoration.untrackedResourceForeground": "#73c991",
+    "gitDecoration.untrackedResourceForeground": "#5fff7c",
     "editorMarkerNavigation.background": "#111",
     "editorMarkerNavigationError.background": "#ff7272",
     "editorMarkerNavigationWarning.background": "#cca700",
