@@ -15,6 +15,11 @@
         "label": "Oled Aqua High Contrast",
         "uiTheme": "hc-black",
         "path": "./themes/oled-aqua-high-contrast.json"
+      },
+      {
+        "label": "Oled Aqua Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oled-aqua-dark.json"
       }
     ]
   }
